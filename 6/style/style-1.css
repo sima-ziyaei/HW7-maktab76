@@ -1,0 +1,107 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.pic-1 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/1.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
+
+.pic-2 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/2.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
+
+.pic-3 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/3.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    ;
+    margin: 20px;
+}
+
+.pic-4 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/4.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
+
+.pic-5 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/5.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
+
+.pic-6 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/6.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
+
+.pic-7 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/7.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
+
+.pic-8 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/8.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
+
+.pic-9 {
+    width: 409px;
+    height: 250px;
+    background-image: url("/6/assets/9.jpg");
+    background-size: cover;
+    border: 4px solid #000;
+    box-shadow: 2px 2px 15px rgb(79, 76, 76);
+    margin: 20px;
+}
